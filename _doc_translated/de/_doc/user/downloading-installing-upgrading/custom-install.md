@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/custom-install/
 redirect_from:
-- /de/de/de/doc/encryption-config/
+- /de/doc/encryption-config/
 ref: 118
 title: Custom Installation
 translated: 'yes'

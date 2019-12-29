@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/firewall/
 redirect_from:
-- /de/de/de/doc/qubes-firewall/
-- /de/de/de/doc/QubesFirewall/
-- /de/de/de/wiki/QubesFirewall/
+- /de/doc/qubes-firewall/
+- /de/doc/QubesFirewall/
+- /de/wiki/QubesFirewall/
 ref: 135
 title: The Qubes Firewall
 translated: 'yes'

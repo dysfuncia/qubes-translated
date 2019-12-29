@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/data-leaks/
 redirect_from:
-- /de/de/de/doc/DataLeaks/
-- /de/de/de/wiki/DataLeaks/
+- /de/doc/DataLeaks/
+- /de/wiki/DataLeaks/
 ref: 140
 title: Data Leaks
 translated: 'yes'

@@ -3,11 +3,11 @@ lang: de
 layout: doc
 permalink: /de/security/
 redirect_from:
-- /de/de/de/doc/QubesSecurity/
-- /de/de/de/wiki/QubesSecurity/
-- /de/de/de/doc/SecurityPage/
-- /de/de/de/wiki/SecurityPage/
-- /de/de/de/trac/wiki/SecurityPage/
+- /de/doc/QubesSecurity/
+- /de/wiki/QubesSecurity/
+- /de/doc/SecurityPage/
+- /de/wiki/SecurityPage/
+- /de/trac/wiki/SecurityPage/
 ref: 14
 title: Security
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/postfix/
 redirect_from:
-- /de/de/de/doc/Postfix/
-- /de/de/de/wiki/Postfix/
+- /de/doc/Postfix/
+- /de/wiki/Postfix/
 ref: 35
 title: Postfix
 translated: 'yes'

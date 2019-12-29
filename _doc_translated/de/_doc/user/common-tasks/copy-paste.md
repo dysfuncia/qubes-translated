@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/copy-paste/
 redirect_from:
-- /de/de/de/doc/CopyPaste/
-- /de/de/de/wiki/CopyPaste/
+- /de/doc/CopyPaste/
+- /de/wiki/CopyPaste/
 ref: 101
 title: Copy and Paste
 translated: 'yes'

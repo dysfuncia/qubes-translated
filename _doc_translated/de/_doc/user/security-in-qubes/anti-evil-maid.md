@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/anti-evil-maid/
 redirect_from:
-- /de/de/de/doc/AntiEvilMaid/
-- /de/de/de/wiki/AntiEvilMaid/
+- /de/doc/AntiEvilMaid/
+- /de/wiki/AntiEvilMaid/
 ref: 133
 title: Anti Evil Maid (AEM)
 translated: 'yes'

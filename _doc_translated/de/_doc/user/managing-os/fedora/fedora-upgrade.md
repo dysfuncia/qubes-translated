@@ -3,19 +3,19 @@ lang: de
 layout: doc
 permalink: /de/doc/template/fedora/upgrade/
 redirect_from:
-- /de/de/de/doc/template/fedora/upgrade-26-to-27/
-- /de/de/de/doc/fedora-template-upgrade-26/
-- /de/de/de/doc/FedoraTemplateUpgrade26/
-- /de/de/de/wiki/FedoraTemplateUpgrade26/
-- /de/de/de/doc/template/fedora/upgrade-27-to-28/
-- /de/de/de/doc/fedora-template-upgrade-27/
-- /de/de/de/doc/FedoraTemplateUpgrade27/
-- /de/de/de/wiki/FedoraTemplateUpgrade27/
-- /de/de/de/doc/template/fedora/upgrade-28-to-29/
-- /de/de/de/doc/fedora-template-upgrade-28/
-- /de/de/de/doc/FedoraTemplateUpgrade28/
-- /de/de/de/wiki/FedoraTemplateUpgrade28/
-- /de/de/de/doc/template/fedora/upgrade-29-to-30/
+- /de/doc/template/fedora/upgrade-26-to-27/
+- /de/doc/fedora-template-upgrade-26/
+- /de/doc/FedoraTemplateUpgrade26/
+- /de/wiki/FedoraTemplateUpgrade26/
+- /de/doc/template/fedora/upgrade-27-to-28/
+- /de/doc/fedora-template-upgrade-27/
+- /de/doc/FedoraTemplateUpgrade27/
+- /de/wiki/FedoraTemplateUpgrade27/
+- /de/doc/template/fedora/upgrade-28-to-29/
+- /de/doc/fedora-template-upgrade-28/
+- /de/doc/FedoraTemplateUpgrade28/
+- /de/wiki/FedoraTemplateUpgrade28/
+- /de/doc/template/fedora/upgrade-29-to-30/
 ref: 112
 title: Upgrading Fedora TemplateVMs
 translated: 'yes'

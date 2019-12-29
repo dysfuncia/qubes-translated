@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/profiling/
 redirect_from:
-- /de/de/de/doc/Profiling/
-- /de/de/de/wiki/Profiling/
+- /de/doc/Profiling/
+- /de/wiki/Profiling/
 ref: 161
 title: Profiling
 translated: 'yes'

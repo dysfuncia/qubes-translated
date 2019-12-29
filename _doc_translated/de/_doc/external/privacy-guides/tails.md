@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/tails/
 redirect_from:
-- /de/de/de/doc/running-tails
+- /de/doc/running-tails
 ref: 66
 title: Running Tails in Qubes
 translated: 'yes'

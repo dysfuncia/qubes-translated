@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/building-archlinux-template/
 redirect_from:
-- /de/de/de/doc/BuildingArchlinuxTemplate/
-- /de/de/de/wiki/BuildingArchlinuxTemplate/
+- /de/doc/BuildingArchlinuxTemplate/
+- /de/wiki/BuildingArchlinuxTemplate/
 ref: 51
 title: Building Archlinux Template
 translated: 'yes'

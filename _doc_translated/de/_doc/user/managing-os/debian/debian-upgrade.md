@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/doc/template/debian/upgrade/
 redirect_from:
-- /de/de/de/doc/template/debian/upgrade-8-to-9/
-- /de/de/de/doc/debian-template-upgrade-8/
-- /de/de/de/doc/DebianTemplateUpgrade8/
-- /de/de/de/wiki/DebianTemplateUpgrade8/
+- /de/doc/template/debian/upgrade-8-to-9/
+- /de/doc/debian-template-upgrade-8/
+- /de/doc/DebianTemplateUpgrade8/
+- /de/wiki/DebianTemplateUpgrade8/
 ref: 115
 title: Upgrading Debian TemplateVMs
 translated: 'yes'

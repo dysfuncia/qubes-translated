@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/windows-debugging/
 redirect_from:
-- /de/de/de/doc/WindowsDebugging/
-- /de/de/de/wiki/WindowsDebugging/
+- /de/doc/WindowsDebugging/
+- /de/wiki/WindowsDebugging/
 ref: 163
 title: Windows Debugging
 translated: 'yes'

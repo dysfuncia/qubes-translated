@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/templates/archlinux/
 redirect_from:
-- /de/de/de/doc/archlinux/
-- /de/de/de/doc/Templates/Archlinux/
-- /de/de/de/wiki/Templates/Archlinux/
+- /de/doc/archlinux/
+- /de/doc/Templates/Archlinux/
+- /de/wiki/Templates/Archlinux/
 ref: 67
 title: Archlinux Template
 translated: 'yes'

@@ -3,18 +3,18 @@ lang: de
 layout: doc
 permalink: /de/doc/whonix/
 redirect_from:
-- /de/de/de/doc/privacy/whonix/
-- /de/de/de/doc/templates/whonix/
-- /de/de/de/doc/Templates/Whonix/
-- /de/de/de/wiki/Templates/Whonix/
-- /de/de/de/doc/whonix/customize/
-- /de/de/de/doc/privacy/customizing-whonix/
-- /de/de/de/doc/whonix/install/
-- /de/de/de/doc/privacy/install-whonix/
-- /de/de/de/doc/whonix/uninstall/
-- /de/de/de/doc/privacy/uninstall-whonix/
-- /de/de/de/doc/whonix/update/
-- /de/de/de/doc/privacy/updating-whonix/
+- /de/doc/privacy/whonix/
+- /de/doc/templates/whonix/
+- /de/doc/Templates/Whonix/
+- /de/wiki/Templates/Whonix/
+- /de/doc/whonix/customize/
+- /de/doc/privacy/customizing-whonix/
+- /de/doc/whonix/install/
+- /de/doc/privacy/install-whonix/
+- /de/doc/whonix/uninstall/
+- /de/doc/privacy/uninstall-whonix/
+- /de/doc/whonix/update/
+- /de/doc/privacy/updating-whonix/
 ref: 64
 title: Whonix for Privacy & Anonymity
 translated: 'yes'

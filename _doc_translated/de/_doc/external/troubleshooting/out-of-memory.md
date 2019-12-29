@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/out-of-memory/
 redirect_from:
-- /de/de/de/doc/OutOfmemory/
-- /de/de/de/wiki/OutOfmemory/
+- /de/doc/OutOfmemory/
+- /de/wiki/OutOfmemory/
 ref: 46
 title: Out of Memory
 translated: 'yes'

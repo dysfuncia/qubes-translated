@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/qfilecopy/
 redirect_from:
-- /de/de/de/doc/Qfilecopy/
-- /de/de/de/wiki/Qfilecopy/
+- /de/doc/Qfilecopy/
+- /de/wiki/Qfilecopy/
 ref: 190
 title: Qfilecopy
 translated: 'yes'

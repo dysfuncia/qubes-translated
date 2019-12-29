@@ -3,11 +3,11 @@ lang: de
 layout: doc
 permalink: /de/doc/qrexec/
 redirect_from:
-- /de/de/de/doc/Qrexec3/
-- /de/de/de/doc/qrexec3/
-- /de/de/de/wiki/Qrexec3/
-- /de/de/de/doc/Qrexec/
-- /de/de/de/wiki/Qrexec/
+- /de/doc/Qrexec3/
+- /de/doc/qrexec3/
+- /de/wiki/Qrexec3/
+- /de/doc/Qrexec/
+- /de/wiki/Qrexec/
 ref: 183
 title: Qrexec
 translated: 'yes'

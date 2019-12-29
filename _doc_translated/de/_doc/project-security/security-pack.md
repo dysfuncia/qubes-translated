@@ -3,15 +3,15 @@ lang: de
 layout: doc
 permalink: /de/security/pack/
 redirect_from:
-- /de/de/de/doc/security-pack/
-- /de/de/de/doc/SecurityPack/
-- /de/de/de/wiki/SecurityPack/
-- /de/de/de/qsp/
-- /de/de/de/sec-pack/
-- /de/de/de/secpack/
-- /de/de/de/doc/qsp/
-- /de/de/de/doc/sec-pack/
-- /de/de/de/doc/secpack/
+- /de/doc/security-pack/
+- /de/doc/SecurityPack/
+- /de/wiki/SecurityPack/
+- /de/qsp/
+- /de/sec-pack/
+- /de/secpack/
+- /de/doc/qsp/
+- /de/doc/sec-pack/
+- /de/doc/secpack/
 ref: 12
 title: Security Pack
 translated: 'yes'

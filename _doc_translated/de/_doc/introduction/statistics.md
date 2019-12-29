@@ -3,7 +3,7 @@ lang: de
 layout: default
 permalink: /de/statistics/
 redirect_from:
-- /de/de/de/counter/
+- /de/counter/
 ref: 18
 title: Statistics
 translated: 'yes'

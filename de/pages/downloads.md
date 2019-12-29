@@ -3,8 +3,8 @@ lang: de
 layout: boxless
 permalink: /de/downloads/
 redirect_from:
-- /de/de/de/doc/QubesDownloads/
-- /de/de/de/wiki/QubesDownloads/
+- /de/doc/QubesDownloads/
+- /de/wiki/QubesDownloads/
 ref: 213
 title: Download Qubes OS
 translated: 'yes'

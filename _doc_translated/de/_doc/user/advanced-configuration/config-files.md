@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/config-files/
 redirect_from:
-- /de/de/de/doc/ConfigFiles/
-- /de/de/de/doc/UserDoc/ConfigFiles/
-- /de/de/de/wiki/UserDoc/ConfigFiles/
+- /de/doc/ConfigFiles/
+- /de/doc/UserDoc/ConfigFiles/
+- /de/wiki/UserDoc/ConfigFiles/
 ref: 153
 title: Config Files
 translated: 'yes'

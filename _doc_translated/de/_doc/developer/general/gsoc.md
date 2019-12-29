@@ -2,16 +2,7 @@
 lang: de
 layout: sidebar
 permalink: /de/gsoc/
-redirect_from:
-- /de/de/
-- /de/ded
-- /de/dee
-- /de/de/
-- /de/deG
-- /de/deS
-- /de/deo
-- /de/deC
-- /de/de/
+redirect_from: /de/GSoC/
 ref: 181
 title: Google Summer of Code
 translated: 'yes'

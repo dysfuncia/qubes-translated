@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/templates/debian/
 redirect_from:
-- /de/de/de/doc/debian/
-- /de/de/de/doc/Templates/Debian/
-- /de/de/de/wiki/Templates/Debian/
+- /de/doc/debian/
+- /de/doc/Templates/Debian/
+- /de/wiki/Templates/Debian/
 ref: 114
 title: The Debian TemplateVM
 translated: 'yes'

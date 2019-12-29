@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/install-security/
 redirect_from:
-- /de/de/de/doc/InstallSecurity/
-- /de/de/de/wiki/InstallSecurity/
+- /de/doc/InstallSecurity/
+- /de/wiki/InstallSecurity/
 ref: 119
 title: Installation Security
 translated: 'yes'

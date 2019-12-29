@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/optical-discs/
 redirect_from:
-- /de/de/de/doc/recording-optical-discs/
+- /de/doc/recording-optical-discs/
 ref: 93
 title: Optical Discs
 translated: 'yes'

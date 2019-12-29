@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/nvidia-troubleshooting/
 redirect_from:
-- /de/de/de/doc/NvidiaTroubleshooting/
-- /de/de/de/wiki/NvidiaTroubleshooting/
+- /de/doc/NvidiaTroubleshooting/
+- /de/wiki/NvidiaTroubleshooting/
 ref: 48
 title: Nvidia Troubleshooting
 translated: 'yes'

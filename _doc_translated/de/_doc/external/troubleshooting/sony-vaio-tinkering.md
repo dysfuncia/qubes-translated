@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/sony-vaio-tinkering/
 redirect_from:
-- /de/de/de/doc/SonyVaioTinkering/
-- /de/de/de/wiki/SonyVaioTinkering/
+- /de/doc/SonyVaioTinkering/
+- /de/wiki/SonyVaioTinkering/
 ref: 42
 title: Sony Vaio Tinkering
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/template-implementation/
 redirect_from:
-- /de/de/de/doc/TemplateImplementation/
-- /de/de/de/wiki/TemplateImplementation/
+- /de/doc/TemplateImplementation/
+- /de/wiki/TemplateImplementation/
 ref: 166
 title: Template Implementation
 translated: 'yes'

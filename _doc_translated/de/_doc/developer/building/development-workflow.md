@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/development-workflow/
 redirect_from:
-- /de/de/de/doc/DevelopmentWorkflow/
-- /de/de/de/wiki/DevelopmentWorkflow/
+- /de/doc/DevelopmentWorkflow/
+- /de/wiki/DevelopmentWorkflow/
 ref: 207
 title: Development Workflow
 translated: 'yes'

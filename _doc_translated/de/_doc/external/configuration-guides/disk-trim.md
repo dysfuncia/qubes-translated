@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/disk-trim/
 redirect_from:
-- /de/de/de/doc/DiskTRIM/
-- /de/de/de/wiki/DiskTRIM/
+- /de/doc/DiskTRIM/
+- /de/wiki/DiskTRIM/
 ref: 30
 title: Disk TRIM
 translated: 'yes'

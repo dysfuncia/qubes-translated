@@ -2,24 +2,7 @@
 lang: de
 layout: doc
 permalink: /de/security/canaries/
-redirect_from:
-- /de/de/
-- /de/ded
-- /de/dee
-- /de/de/
-- /de/ded
-- /de/deo
-- /de/dec
-- /de/de/
-- /de/dec
-- /de/dea
-- /de/den
-- /de/dea
-- /de/der
-- /de/dei
-- /de/dee
-- /de/des
-- /de/de/
+redirect_from: /de/doc/canaries/
 ref: 7
 title: Canaries
 translated: 'yes'

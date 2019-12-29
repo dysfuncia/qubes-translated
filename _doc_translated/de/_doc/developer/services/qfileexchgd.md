@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/qfileexchgd/
 redirect_from:
-- /de/de/de/doc/Qfileexchgd/
-- /de/de/de/wiki/Qfileexchgd/
+- /de/doc/Qfileexchgd/
+- /de/wiki/Qfileexchgd/
 ref: 186
 title: Qfileexchgd
 translated: 'yes'

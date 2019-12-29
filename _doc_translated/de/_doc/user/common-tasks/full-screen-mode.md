@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/full-screen-mode/
 redirect_from:
-- /de/de/de/doc/FullScreenMode/
-- /de/de/de/wiki/FullScreenMode/
+- /de/doc/FullScreenMode/
+- /de/wiki/FullScreenMode/
 ref: 99
 title: Full Screen Mode
 translated: 'yes'

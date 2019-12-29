@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/rxvt/
 redirect_from:
-- /de/de/de/doc/Rxvt/
-- /de/de/de/wiki/Rxvt/
+- /de/doc/Rxvt/
+- /de/wiki/Rxvt/
 ref: 31
 title: Rxvt
 translated: 'yes'

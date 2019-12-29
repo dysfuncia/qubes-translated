@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/qubes-iso-building/
 redirect_from:
-- /de/de/de/doc/qubes-r3-building/
-- /de/de/de/doc/QubesR3Building/
-- /de/de/de/wiki/QubesR3Building/
+- /de/doc/qubes-r3-building/
+- /de/doc/QubesR3Building/
+- /de/wiki/QubesR3Building/
 ref: 204
 title: Qubes ISO Building
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/upgrade-to-r4.0/
 redirect_from:
-- /de/de/de/doc/UpgradeToR4.0/
-- /de/de/de/doc/UpgradeToR4.0rc1/
+- /de/doc/UpgradeToR4.0/
+- /de/doc/UpgradeToR4.0rc1/
 ref: 130
 title: Upgrading to R4.0
 translated: 'yes'

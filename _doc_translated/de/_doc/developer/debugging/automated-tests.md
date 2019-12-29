@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/automated-tests/
 redirect_from:
-- /de/de/de/doc/AutomatedTests/
+- /de/doc/AutomatedTests/
 ref: 160
 title: Automated Tests
 translated: 'yes'

@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/templates/
 redirect_from:
-- /de/de/de/doc/template/
-- /de/de/de/doc/Templates/
-- /de/de/de/wiki/Templates/
+- /de/doc/template/
+- /de/doc/Templates/
+- /de/wiki/Templates/
 ref: 106
 title: TemplateVMs
 translated: 'yes'

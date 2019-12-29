@@ -3,12 +3,12 @@ lang: de
 layout: sidebar
 permalink: /de/faq/
 redirect_from:
-- /de/de/de/doc/user-faq/
-- /de/de/de/doc/UserFaq/
-- /de/de/de/wiki/UserFaq/
-- /de/de/de/doc/devel-faq/
-- /de/de/de/doc/DevelFaq/
-- /de/de/de/wiki/DevelFaq/
+- /de/doc/user-faq/
+- /de/doc/UserFaq/
+- /de/wiki/UserFaq/
+- /de/doc/devel-faq/
+- /de/doc/DevelFaq/
+- /de/wiki/DevelFaq/
 ref: 16
 title: Frequently Asked Questions
 translated: 'yes'

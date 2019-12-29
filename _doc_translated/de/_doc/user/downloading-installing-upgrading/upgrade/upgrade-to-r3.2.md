@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/upgrade-to-r3.2/
 redirect_from:
-- /de/de/de/doc/UpgradeToR3.2/
-- /de/de/de/doc/UpgradeToR3.2rc1/
+- /de/doc/UpgradeToR3.2/
+- /de/doc/UpgradeToR3.2rc1/
 ref: 125
 title: Upgrading to R3.2
 translated: 'yes'

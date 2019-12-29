@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/building-non-fedora-template/
 redirect_from:
-- /de/de/de/doc/BuildingNonFedoraTemplate/
-- /de/de/de/wiki/BuildingNonFedoraTemplate/
+- /de/doc/BuildingNonFedoraTemplate/
+- /de/wiki/BuildingNonFedoraTemplate/
 ref: 50
 title: Building Non-Fedora Template
 translated: 'yes'

@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/certified-hardware/
 redirect_from:
-- /de/de/de/doc/hardware/
-- /de/de/de/doc/certified-laptops/
-- /de/de/de/hardware-certification/
+- /de/doc/hardware/
+- /de/doc/certified-laptops/
+- /de/hardware-certification/
 ref: 80
 title: Certified Hardware
 translated: 'yes'

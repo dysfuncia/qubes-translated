@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/copying-files/
 redirect_from:
-- /de/de/de/doc/CopyingFiles/
-- /de/de/de/wiki/CopyingFiles/
+- /de/doc/CopyingFiles/
+- /de/wiki/CopyingFiles/
 ref: 83
 title: Copying Files between qubes
 translated: 'yes'

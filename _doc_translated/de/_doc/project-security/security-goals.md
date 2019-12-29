@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/security/goals/
 redirect_from:
-- /de/de/de/doc/security-goals/
-- /de/de/de/doc/SecurityGoals/
-- /de/de/de/wiki/SecurityGoals/
+- /de/doc/security-goals/
+- /de/doc/SecurityGoals/
+- /de/wiki/SecurityGoals/
 ref: 9
 title: Security Goals
 translated: 'yes'

@@ -3,12 +3,12 @@ lang: de
 layout: sidebar
 permalink: /de/support/
 redirect_from:
-- /de/de/de/help/
-- /de/de/de/mailing-lists/
-- /de/de/de/doc/mailing-lists/
-- /de/de/de/doc/qubes-lists/
-- /de/de/de/doc/QubesLists/
-- /de/de/de/wiki/QubesLists/
+- /de/help/
+- /de/mailing-lists/
+- /de/doc/mailing-lists/
+- /de/doc/qubes-lists/
+- /de/doc/QubesLists/
+- /de/wiki/QubesLists/
 ref: 17
 title: Help, Support, and Mailing Lists
 translated: 'yes'

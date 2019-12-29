@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/dom0-secure-updates/
 redirect_from:
-- /de/de/de/doc/Dom0SecureUpdates/
-- /de/de/de/wiki/Dom0SecureUpdates/
+- /de/doc/Dom0SecureUpdates/
+- /de/wiki/Dom0SecureUpdates/
 ref: 187
 title: Dom0 Secure Updates
 translated: 'yes'

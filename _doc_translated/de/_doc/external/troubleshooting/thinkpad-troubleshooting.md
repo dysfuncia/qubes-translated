@@ -3,12 +3,12 @@ lang: de
 layout: doc
 permalink: /de/doc/thinkpad-troubleshooting/
 redirect_from:
-- /de/de/de/doc/thinkpad_x201/
-- /de/de/de/doc/Thinkpad_X201/
-- /de/de/de/wiki/Thinkpad_X201/
-- /de/de/de/doc/lenovo450-tinkering/
-- /de/de/de/doc/Lenovo450Tinkering/
-- /de/de/de/wiki/Lenovo450Tinkering/
+- /de/doc/thinkpad_x201/
+- /de/doc/Thinkpad_X201/
+- /de/wiki/Thinkpad_X201/
+- /de/doc/lenovo450-tinkering/
+- /de/doc/Lenovo450Tinkering/
+- /de/wiki/Lenovo450Tinkering/
 ref: 49
 title: Lenovo ThinkPad Troubleshooting
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/linux-hvm-tips/
 redirect_from:
-- /de/de/de/doc/LinuxHVMTips/
-- /de/de/de/wiki/LinuxHVMTips/
+- /de/doc/LinuxHVMTips/
+- /de/wiki/LinuxHVMTips/
 ref: 69
 title: Linux HVM Tips
 translated: 'yes'

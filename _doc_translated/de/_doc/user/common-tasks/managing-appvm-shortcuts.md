@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/managing-appvm-shortcuts/
 redirect_from:
-- /de/de/de/doc/ManagingAppVmShortcuts/
-- /de/de/de/wiki/ManagingAppVmShortcuts/
+- /de/doc/ManagingAppVmShortcuts/
+- /de/wiki/ManagingAppVmShortcuts/
 ref: 86
 title: Managing AppVm Shortcuts
 translated: 'yes'

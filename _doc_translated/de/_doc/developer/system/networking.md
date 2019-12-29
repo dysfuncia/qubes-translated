@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/networking/
 redirect_from:
-- /de/de/de/doc/qubes-net/
-- /de/de/de/doc/QubesNet/
-- /de/de/de/wiki/QubesNet/
+- /de/doc/qubes-net/
+- /de/doc/QubesNet/
+- /de/wiki/QubesNet/
 ref: 171
 title: Networking
 translated: 'yes'

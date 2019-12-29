@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/network-bridge-support/
 redirect_from:
-- /de/de/de/doc/NetworkBridgeSupport/
-- /de/de/de/wiki/NetworkBridgeSupport/
+- /de/doc/NetworkBridgeSupport/
+- /de/wiki/NetworkBridgeSupport/
 ref: 25
 title: Network Bridge Support
 translated: 'yes'

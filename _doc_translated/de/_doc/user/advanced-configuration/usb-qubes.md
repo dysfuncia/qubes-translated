@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/doc/usb-qubes/
 redirect_from:
-- /de/de/de/doc/usbvm/
-- /de/de/de/doc/USBVM/
-- /de/de/de/wiki/USBVM/
-- /de/de/de/doc/sys-usb/
+- /de/doc/usbvm/
+- /de/doc/USBVM/
+- /de/wiki/USBVM/
+- /de/doc/sys-usb/
 ref: 151
 title: USB Qubes
 translated: 'yes'

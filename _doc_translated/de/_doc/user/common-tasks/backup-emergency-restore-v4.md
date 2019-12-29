@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/backup-emergency-restore-v4/
 redirect_from:
-- /de/de/de/doc/BackupEmergencyRestoreV4/
+- /de/doc/BackupEmergencyRestoreV4/
 ref: 96
 title: Emergency Backup Recovery (v4)
 translated: 'yes'

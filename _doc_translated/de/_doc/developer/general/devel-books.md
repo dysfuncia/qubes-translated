@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/devel-books/
 redirect_from:
-- /de/de/de/doc/DevelBooks/
-- /de/de/de/wiki/DevelBooks/
+- /de/doc/DevelBooks/
+- /de/wiki/DevelBooks/
 ref: 176
 title: Developer Books
 translated: 'yes'

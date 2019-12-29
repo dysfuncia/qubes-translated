@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/block-devices/
 redirect_from:
-- /de/de/de/doc/stick-mounting/
-- /de/de/de/doc/StickMounting/
-- /de/de/de/wiki/StickMounting/
+- /de/doc/stick-mounting/
+- /de/doc/StickMounting/
+- /de/wiki/StickMounting/
 ref: 97
 title: Block (Storage) Devices
 translated: 'yes'

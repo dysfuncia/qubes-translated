@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/doc/hcl/
 redirect_from:
-- /de/de/de/doc/HCL/
-- /de/de/de/wiki/HCL/
-- /de/de/de/wiki/HCLR1/
-- /de/de/de/wiki/HCL-R2B2/
+- /de/doc/HCL/
+- /de/wiki/HCL/
+- /de/wiki/HCLR1/
+- /de/wiki/HCL-R2B2/
 ref: 79
 title: Hardware Compatibility List (HCL)
 translated: 'yes'

@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/doc/disposablevm-customization/
 redirect_from:
-- /de/de/de/doc/dispvm-customization/
-- /de/de/de/doc/DispVMCustomization/
-- /de/de/de/doc/UserDoc/DispVMCustomization/
-- /de/de/de/wiki/UserDoc/DispVMCustomization/
+- /de/doc/dispvm-customization/
+- /de/doc/DispVMCustomization/
+- /de/doc/UserDoc/DispVMCustomization/
+- /de/wiki/UserDoc/DispVMCustomization/
 ref: 154
 title: DisposableVM Customization
 translated: 'yes'

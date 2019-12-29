@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/fetchmail/
 redirect_from:
-- /de/de/de/doc/Fetchmail/
-- /de/de/de/wiki/Fetchmail/
+- /de/doc/Fetchmail/
+- /de/wiki/Fetchmail/
 ref: 29
 title: Fetchmail
 translated: 'yes'

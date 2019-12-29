@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/disposablevm/
 redirect_from:
-- /de/de/de/doc/dispvm/
-- /de/de/de/doc/DisposableVms/
-- /de/de/de/wiki/DisposableVMs/
+- /de/doc/dispvm/
+- /de/doc/DisposableVms/
+- /de/wiki/DisposableVMs/
 ref: 94
 title: DisposableVMs
 translated: 'yes'

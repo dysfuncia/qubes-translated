@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/reinstall-template/
 redirect_from:
-- /de/de/de/doc/whonix/reinstall/
+- /de/doc/whonix/reinstall/
 ref: 110
 title: How to Reinstall a TemplateVM
 translated: 'yes'

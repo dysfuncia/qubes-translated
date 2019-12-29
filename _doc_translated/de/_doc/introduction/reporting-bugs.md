@@ -3,13 +3,13 @@ lang: de
 layout: doc
 permalink: /de/doc/reporting-bugs/
 redirect_from:
-- /de/de/de/doc/BugReportingGuide/
-- /de/de/de/wiki/BugReportingGuide/
-- /de/de/de/reporting-bugs/
-- /de/de/de/bug/
-- /de/de/de/bugs/
-- /de/de/de/bug-report/
-- /de/de/de/bug-reports/
+- /de/doc/BugReportingGuide/
+- /de/wiki/BugReportingGuide/
+- /de/reporting-bugs/
+- /de/bug/
+- /de/bugs/
+- /de/bug-report/
+- /de/bug-reports/
 ref: 19
 title: Reporting bugs and other issues
 translated: 'yes'

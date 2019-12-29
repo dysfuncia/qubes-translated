@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/test-bench/
 redirect_from:
-- /de/de/de/doc/TestBench/
-- /de/de/de/wiki/TestBench/
+- /de/doc/TestBench/
+- /de/wiki/TestBench/
 ref: 159
 title: Test Bench
 translated: 'yes'

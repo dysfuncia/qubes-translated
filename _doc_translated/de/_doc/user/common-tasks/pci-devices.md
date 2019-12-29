@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/pci-devices/
 redirect_from:
-- /de/de/de/doc/assigning-devices/
-- /de/de/de/doc/AssigningDevices/
-- /de/de/de/wiki/AssigningDevices/
+- /de/doc/assigning-devices/
+- /de/doc/AssigningDevices/
+- /de/wiki/AssigningDevices/
 ref: 84
 title: PCI Devices
 translated: 'yes'

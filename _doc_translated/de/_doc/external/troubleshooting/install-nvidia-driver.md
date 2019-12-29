@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/install-nvidia-driver/
 redirect_from:
-- /de/de/de/doc/InstallNvidiaDriver/
-- /de/de/de/wiki/InstallNvidiaDriver/
+- /de/doc/InstallNvidiaDriver/
+- /de/wiki/InstallNvidiaDriver/
 ref: 47
 title: How to Install an Nvidia Driver
 translated: 'yes'

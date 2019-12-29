@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/external-audio/
 redirect_from:
-- /de/de/de/doc/ExternalAudio/
-- /de/de/de/wiki/ExternalAudio/
+- /de/doc/ExternalAudio/
+- /de/wiki/ExternalAudio/
 ref: 33
 title: External Audio
 translated: 'yes'

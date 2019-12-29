@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/upgrade-to-r2b2/
 redirect_from:
-- /de/de/de/doc/UpgradeToR2B2/
-- /de/de/de/wiki/UpgradeToR2B2/
+- /de/doc/UpgradeToR2B2/
+- /de/wiki/UpgradeToR2B2/
 ref: 127
 title: Upgrading to R2B2
 translated: 'yes'

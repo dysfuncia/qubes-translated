@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/device-handling/
 redirect_from:
-- /de/de/de/doc/external-device-mount-point/
-- /de/de/de/doc/ExternalDeviceMountPoint/
-- /de/de/de/wiki/ExternalDeviceMountPoint/
+- /de/doc/external-device-mount-point/
+- /de/doc/ExternalDeviceMountPoint/
+- /de/wiki/ExternalDeviceMountPoint/
 ref: 92
 title: Device Handling
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/version-scheme/
 redirect_from:
-- /de/de/de/doc/VersionScheme/
-- /de/de/de/wiki/VersionScheme/
+- /de/doc/VersionScheme/
+- /de/wiki/VersionScheme/
 ref: 122
 title: Version Scheme
 translated: 'yes'

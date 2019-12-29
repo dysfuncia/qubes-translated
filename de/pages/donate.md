@@ -3,8 +3,8 @@ lang: de
 layout: default
 permalink: /de/donate/
 redirect_from:
-- /de/de/de/doc/Donations/
-- /de/de/de/wiki/Donations/
+- /de/doc/Donations/
+- /de/wiki/Donations/
 ref: 217
 title: Donate to Qubes
 translated: 'yes'

@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/upgrade-to-r2/
 redirect_from:
-- /de/de/de/doc/UpgradeToR2/
-- /de/de/de/doc/UpgradeToR2rc1/
-- /de/de/de/wiki/UpgradeToR2rc1/
+- /de/doc/UpgradeToR2/
+- /de/doc/UpgradeToR2rc1/
+- /de/wiki/UpgradeToR2rc1/
 ref: 131
 title: Upgrading to R2
 translated: 'yes'

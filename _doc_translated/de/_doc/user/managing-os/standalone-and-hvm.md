@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/doc/standalone-and-hvm/
 redirect_from:
-- /de/de/de/doc/hvm/
-- /de/de/de/doc/hvm-create/
-- /de/de/de/doc/HvmCreate/
-- /de/de/de/wiki/HvmCreate/
+- /de/doc/hvm/
+- /de/doc/hvm-create/
+- /de/doc/HvmCreate/
+- /de/wiki/HvmCreate/
 ref: 107
 title: StandaloneVMs and HVMs
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/mutt/
 redirect_from:
-- /de/de/de/doc/Mutt/
-- /de/de/de/wiki/Mutt/
+- /de/doc/Mutt/
+- /de/wiki/Mutt/
 ref: 26
 title: Mutt
 translated: 'yes'

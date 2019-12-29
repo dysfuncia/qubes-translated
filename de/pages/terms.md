@@ -3,8 +3,8 @@ lang: de
 layout: default
 permalink: /de/terms/
 redirect_from:
-- /de/de/de/doc/terms/
-- /de/de/de/wiki/terms/
+- /de/doc/terms/
+- /de/wiki/terms/
 ref: 212
 title: Terms of Use
 translated: 'yes'

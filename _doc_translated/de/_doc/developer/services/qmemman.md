@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/qmemman/
 redirect_from:
-- /de/de/de/doc/Qmemman/
-- /de/de/de/wiki/Qmemman/
+- /de/doc/Qmemman/
+- /de/wiki/Qmemman/
 ref: 184
 title: Qmemman
 translated: 'yes'

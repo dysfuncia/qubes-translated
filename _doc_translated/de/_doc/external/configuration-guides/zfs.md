@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/zfs/
 redirect_from:
-- /de/de/de/doc/ZFS/
-- /de/de/de/wiki/ZFS/
+- /de/doc/ZFS/
+- /de/wiki/ZFS/
 ref: 27
 title: ZFS
 translated: 'yes'

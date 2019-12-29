@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/qrexec2/
 redirect_from:
-- /de/de/de/doc/qrexec2-implementation/
-- /de/de/de/doc/Qrexec2Implementation/
-- /de/de/de/wiki/Qrexec2Implementation/
+- /de/doc/qrexec2-implementation/
+- /de/doc/Qrexec2Implementation/
+- /de/wiki/Qrexec2Implementation/
 ref: 188
 title: Qrexec2
 translated: 'yes'

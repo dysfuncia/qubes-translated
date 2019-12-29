@@ -3,13 +3,13 @@ lang: de
 layout: doc
 permalink: /de/doc/windows-tools/
 redirect_from:
-- /de/de/de/doc/windows-appvms/
-- /de/de/de/doc/WindowsAppVms/
-- /de/de/de/wiki/WindowsAppVms/
-- /de/de/de/doc/windows-tools-3/
-- /de/de/de/doc/WindowsTools3/
-- /de/de/de/doc/WindowsTools/
-- /de/de/de/wiki/WindowsTools/
+- /de/doc/windows-appvms/
+- /de/doc/WindowsAppVms/
+- /de/wiki/WindowsAppVms/
+- /de/doc/windows-tools-3/
+- /de/doc/WindowsTools3/
+- /de/doc/WindowsTools/
+- /de/wiki/WindowsTools/
 ref: 73
 title: Qubes Windows Tools
 translated: 'yes'

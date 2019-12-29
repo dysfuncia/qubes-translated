@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/coding-style/
 redirect_from:
-- /de/de/de/doc/CodingStyle/
-- /de/de/de/wiki/CodingStyle/
-- /de/de/de/trac/wiki/CodingStyle/
+- /de/doc/CodingStyle/
+- /de/wiki/CodingStyle/
+- /de/trac/wiki/CodingStyle/
 ref: 208
 title: Coding Style
 translated: 'yes'

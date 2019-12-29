@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/vpn/
 redirect_from:
-- /de/de/de/doc/privacy/vpn/
-- /de/de/de/doc/VPN/
-- /de/de/de/wiki/VPN/
+- /de/doc/privacy/vpn/
+- /de/doc/VPN/
+- /de/wiki/VPN/
 ref: 34
 title: VPN
 translated: 'yes'

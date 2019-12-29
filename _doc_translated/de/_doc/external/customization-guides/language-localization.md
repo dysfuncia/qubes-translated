@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/language-localization/
 redirect_from:
-- /de/de/de/doc/LanguageLocalization/
-- /de/de/de/wiki/LanguageLocalization/
+- /de/doc/LanguageLocalization/
+- /de/wiki/LanguageLocalization/
 ref: 60
 title: Language Localization
 translated: 'yes'

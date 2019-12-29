@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/doc/torvm/
 redirect_from:
-- /de/de/de/doc/privacy/torvm/
-- /de/de/de/doc/TorVM/
-- /de/de/de/doc/UserDoc/TorVM/
-- /de/de/de/wiki/UserDoc/TorVM/
+- /de/doc/privacy/torvm/
+- /de/doc/TorVM/
+- /de/doc/UserDoc/TorVM/
+- /de/wiki/UserDoc/TorVM/
 ref: 62
 title: TorVM
 translated: 'yes'

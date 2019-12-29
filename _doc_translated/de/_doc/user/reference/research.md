@@ -3,9 +3,9 @@ lang: de
 layout: default
 permalink: /de/research/
 redirect_from:
-- /de/de/de/doc/qubes-research/
-- /de/de/de/doc/QubesResearch/
-- /de/de/de/wiki/QubesResearch/
+- /de/doc/qubes-research/
+- /de/doc/QubesResearch/
+- /de/wiki/QubesResearch/
 ref: 102
 title: Research
 translated: 'yes'

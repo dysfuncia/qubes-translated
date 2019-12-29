@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/safe-remote-ttys/
 redirect_from:
-- /de/de/de/doc/safe-remote-ttys/
+- /de/doc/safe-remote-ttys/
 ref: 164
 title: Safe Remote Dom0 Terminals
 translated: 'yes'

@@ -3,16 +3,16 @@ lang: de
 layout: doc
 permalink: /de/doc/installation-guide/
 redirect_from:
-- /de/de/de/doc/InstallationGuide/
-- /de/de/de/wiki/InstallationGuide/
-- /de/de/de/doc/InstallationGuideR1/
-- /de/de/de/doc/InstallationGuideR2B1/
-- /de/de/de/doc/InstallationGuideR2B2/
-- /de/de/de/doc/InstallationGuideR2B3/
-- /de/de/de/doc/InstallationGuideR2rc1/
-- /de/de/de/doc/InstallationGuideR2rc2/
-- /de/de/de/doc/InstallationGuideR3.0rc1/
-- /de/de/de/doc/InstallationGuideR3.0rc2/
+- /de/doc/InstallationGuide/
+- /de/wiki/InstallationGuide/
+- /de/doc/InstallationGuideR1/
+- /de/doc/InstallationGuideR2B1/
+- /de/doc/InstallationGuideR2B2/
+- /de/doc/InstallationGuideR2B3/
+- /de/doc/InstallationGuideR2rc1/
+- /de/doc/InstallationGuideR2rc2/
+- /de/doc/InstallationGuideR3.0rc1/
+- /de/doc/InstallationGuideR3.0rc2/
 ref: 120
 title: Installation Guide
 translated: 'yes'

@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/security/verifying-signatures/
 redirect_from:
-- /de/de/de/doc/verifying-signatures/
-- /de/de/de/doc/VerifyingSignatures/
-- /de/de/de/wiki/VerifyingSignatures/
+- /de/doc/verifying-signatures/
+- /de/doc/VerifyingSignatures/
+- /de/wiki/VerifyingSignatures/
 ref: 13
 title: Verifying Signatures
 translated: 'yes'

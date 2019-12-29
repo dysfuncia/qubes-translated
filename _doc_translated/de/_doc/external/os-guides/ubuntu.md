@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/templates/ubuntu/
 redirect_from:
-- /de/de/de/doc/ubuntu/
-- /de/de/de/doc/Templates/Ubuntu/
-- /de/de/de/wiki/Templates/Ubuntu/
+- /de/doc/ubuntu/
+- /de/doc/Templates/Ubuntu/
+- /de/wiki/Templates/Ubuntu/
 ref: 70
 title: Ubuntu Template
 translated: 'yes'

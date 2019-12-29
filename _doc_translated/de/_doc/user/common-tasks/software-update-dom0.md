@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/software-update-dom0/
 redirect_from:
-- /de/de/de/doc/SoftwareUpdateDom0/
-- /de/de/de/wiki/SoftwareUpdateDom0/
+- /de/doc/SoftwareUpdateDom0/
+- /de/wiki/SoftwareUpdateDom0/
 ref: 87
 title: Installing and updating software in dom0
 translated: 'yes'

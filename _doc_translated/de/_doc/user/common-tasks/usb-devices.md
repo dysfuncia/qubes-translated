@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/usb-devices/
 redirect_from:
-- /de/de/de/doc/usb/
+- /de/doc/usb/
 ref: 88
 title: USB Devices
 translated: 'yes'

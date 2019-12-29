@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/contributing/
 redirect_from:
-- /de/de/de/doc/ContributingHowto/
-- /de/de/de/wiki/ContributingHowto/
+- /de/doc/ContributingHowto/
+- /de/wiki/ContributingHowto/
 ref: 15
 title: Contributing to the Qubes OS Project
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/multimedia/
 redirect_from:
-- /de/de/de/doc/Multimedia/
-- /de/de/de/wiki/Multimedia/
+- /de/doc/Multimedia/
+- /de/wiki/Multimedia/
 ref: 32
 title: How to Make a Multimedia TemplateVM
 translated: 'yes'

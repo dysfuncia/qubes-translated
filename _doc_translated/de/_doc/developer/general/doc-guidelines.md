@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/doc-guidelines/
 redirect_from:
-- /de/de/de/wiki/DocStyle/
-- /de/de/de/doc/DocStyle/
+- /de/wiki/DocStyle/
+- /de/doc/DocStyle/
 ref: 179
 title: Documentation Guidelines
 translated: 'yes'

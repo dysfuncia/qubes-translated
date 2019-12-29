@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/yubi-key/
 redirect_from:
-- /de/de/de/doc/YubiKey/
+- /de/doc/YubiKey/
 ref: 137
 title: YubiKey in Qubes
 translated: 'yes'

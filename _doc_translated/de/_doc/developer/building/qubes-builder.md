@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/qubes-builder/
 redirect_from:
-- /de/de/de/doc/QubesBuilder/
-- /de/de/de/wiki/QubesBuilder/
+- /de/doc/QubesBuilder/
+- /de/wiki/QubesBuilder/
 ref: 206
 title: Qubes Builder
 translated: 'yes'

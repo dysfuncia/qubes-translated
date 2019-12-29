@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/glossary/
 redirect_from:
-- /de/de/de/doc/Glossary/
-- /de/de/de/wiki/Glossary/
+- /de/doc/Glossary/
+- /de/wiki/Glossary/
 ref: 105
 title: Glossary
 translated: 'yes'

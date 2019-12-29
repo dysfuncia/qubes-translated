@@ -3,11 +3,11 @@ lang: de
 layout: doc
 permalink: /de/doc/templates/minimal/
 redirect_from:
-- /de/de/de/doc/templates/fedora-minimal/
-- /de/de/de/doc/fedora-minimal/
-- /de/de/de/doc/Templates/FedoraMinimal/
-- /de/de/de/wiki/Templates/FedoraMinimal/
-- /de/de/de/doc/templates/debian-minimal/
+- /de/doc/templates/fedora-minimal/
+- /de/doc/fedora-minimal/
+- /de/doc/Templates/FedoraMinimal/
+- /de/wiki/Templates/FedoraMinimal/
+- /de/doc/templates/debian-minimal/
 ref: 109
 title: Minimal TemplateVMs
 translated: 'yes'

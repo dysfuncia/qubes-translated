@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/backup-restore/
 redirect_from:
-- /de/de/de/doc/BackupRestore/
-- /de/de/de/wiki/BackupRestore/
+- /de/doc/BackupRestore/
+- /de/wiki/BackupRestore/
 ref: 90
 title: Backup, Restoration, and Migration
 translated: 'yes'

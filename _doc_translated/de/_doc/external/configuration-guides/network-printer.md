@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/network-printer/
 redirect_from:
-- /de/de/de/doc/NetworkPrinter/
-- /de/de/de/wiki/NetworkPrinter/
+- /de/doc/NetworkPrinter/
+- /de/wiki/NetworkPrinter/
 ref: 36
 title: Network Printer
 translated: 'yes'

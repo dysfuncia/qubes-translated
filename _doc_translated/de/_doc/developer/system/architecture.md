@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/architecture/
 redirect_from:
-- /de/de/de/doc/qubes-architecture/
-- /de/de/de/doc/QubesArchitecture/
-- /de/de/de/wiki/QubesArchitecture/
+- /de/doc/qubes-architecture/
+- /de/doc/QubesArchitecture/
+- /de/wiki/QubesArchitecture/
 ref: 168
 title: Architecture
 translated: 'yes'

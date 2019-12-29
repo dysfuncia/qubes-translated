@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/secondary-storage/
 redirect_from:
-- /de/de/de/doc/SecondaryStorage/
-- /de/de/de/wiki/SecondaryStorage/
+- /de/doc/SecondaryStorage/
+- /de/wiki/SecondaryStorage/
 ref: 152
 title: Secondary Storage
 translated: 'yes'

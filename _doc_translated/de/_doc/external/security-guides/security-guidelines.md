@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/security-guidelines/
 redirect_from:
-- /de/de/de/doc/SecurityGuidelines/
-- /de/de/de/wiki/SecurityGuidelines/
+- /de/doc/SecurityGuidelines/
+- /de/wiki/SecurityGuidelines/
 ref: 53
 title: Security Guidelines
 translated: 'yes'

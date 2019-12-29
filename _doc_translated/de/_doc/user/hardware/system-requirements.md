@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/system-requirements/
 redirect_from:
-- /de/de/de/system-requirements/
-- /de/de/de/doc/SystemRequirements/
-- /de/de/de/wiki/SystemRequirements/
+- /de/system-requirements/
+- /de/doc/SystemRequirements/
+- /de/wiki/SystemRequirements/
 ref: 81
 title: System Requirements
 translated: 'yes'

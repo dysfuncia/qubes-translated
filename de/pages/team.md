@@ -3,9 +3,9 @@ lang: de
 layout: team
 permalink: /de/team/
 redirect_from:
-- /de/de/de/people/
-- /de/de/de/doc/QubesDevelopers/
-- /de/de/de/wiki/QubesDevelopers/
+- /de/people/
+- /de/doc/QubesDevelopers/
+- /de/wiki/QubesDevelopers/
 ref: 214
 title: Team
 translated: 'yes'

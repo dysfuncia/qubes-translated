@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/multifactor-authentication/
 redirect_from:
-- /de/de/de/doc/Multi-factorAuthentication/
+- /de/doc/Multi-factorAuthentication/
 ref: 55
 title: Multifactor Authentication
 translated: 'yes'

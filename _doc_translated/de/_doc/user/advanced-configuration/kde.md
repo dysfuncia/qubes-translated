@@ -2,22 +2,7 @@
 lang: de
 layout: doc
 permalink: /de/doc/kde/
-redirect_from:
-- /de/de/
-- /de/ded
-- /de/dee
-- /de/de/
-- /de/dee
-- /de/den
-- /de/de/
-- /de/ded
-- /de/deo
-- /de/dec
-- /de/de/
-- /de/dek
-- /de/ded
-- /de/dee
-- /de/de/
+redirect_from: /de/en/doc/kde/
 ref: 141
 title: KDE
 translated: 'yes'

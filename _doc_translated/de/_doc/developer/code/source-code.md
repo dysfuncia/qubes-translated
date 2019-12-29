@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/source-code/
 redirect_from:
-- /de/de/de/doc/SourceCode/
-- /de/de/de/wiki/SourceCode/
+- /de/doc/SourceCode/
+- /de/wiki/SourceCode/
 ref: 211
 title: Source Code
 translated: 'yes'

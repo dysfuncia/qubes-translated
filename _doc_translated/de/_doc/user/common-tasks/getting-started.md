@@ -3,9 +3,9 @@ lang: de
 layout: default
 permalink: /de/getting-started/
 redirect_from:
-- /de/de/de/doc/getting-started/
-- /de/de/de/doc/GettingStarted/
-- /de/de/de/wiki/GettingStarted/
+- /de/doc/getting-started/
+- /de/doc/GettingStarted/
+- /de/wiki/GettingStarted/
 ref: 100
 title: Get Started
 translated: 'yes'

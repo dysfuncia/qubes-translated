@@ -3,9 +3,9 @@ lang: de
 layout: intro
 permalink: /de/intro/
 redirect_from:
-- /de/de/de/tour/
-- /de/de/de/tour/#what-is-qubes-os
-- /de/de/de/about/
+- /de/tour/
+- /de/tour/#what-is-qubes-os
+- /de/about/
 ref: 24
 title: An Introduction to Qubes OS
 translated: 'yes'

@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/security-critical-code/
 redirect_from:
-- /de/de/de/doc/SecurityCriticalCode/
-- /de/de/de/wiki/SecurityCriticalCode/
-- /de/de/de/trac/wiki/SecurityCriticalCode/
+- /de/doc/SecurityCriticalCode/
+- /de/wiki/SecurityCriticalCode/
+- /de/trac/wiki/SecurityCriticalCode/
 ref: 167
 title: Security-critical Code
 translated: 'yes'

@@ -2,33 +2,7 @@
 lang: de
 layout: doc
 permalink: /de/security/canaries/template/
-redirect_from:
-- /de/de/
-- /de/ded
-- /de/dee
-- /de/de/
-- /de/ded
-- /de/deo
-- /de/dec
-- /de/de/
-- /de/dec
-- /de/dea
-- /de/den
-- /de/dea
-- /de/der
-- /de/dei
-- /de/dee
-- /de/des
-- /de/de/
-- /de/det
-- /de/dee
-- /de/dem
-- /de/dep
-- /de/del
-- /de/dea
-- /de/det
-- /de/dee
-- /de/de/
+redirect_from: /de/doc/canaries/template/
 ref: 5
 title: Canary Template
 translated: 'yes'

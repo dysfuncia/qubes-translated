@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/copy-from-dom0/
 redirect_from:
-- /de/de/de/doc/copy-to-dom0/
-- /de/de/de/doc/CopyToDomZero/
-- /de/de/de/wiki/CopyToDomZero/
+- /de/doc/copy-to-dom0/
+- /de/doc/CopyToDomZero/
+- /de/wiki/CopyToDomZero/
 ref: 95
 title: Copying from (and to) dom0
 translated: 'yes'

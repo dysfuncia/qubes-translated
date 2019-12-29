@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/awesome/
 redirect_from:
-- /de/de/de/doc/awesome/
+- /de/doc/awesome/
 ref: 146
 title: awesome
 translated: 'yes'

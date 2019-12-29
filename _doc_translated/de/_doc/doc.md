@@ -3,12 +3,12 @@ lang: de
 layout: doc-index
 permalink: /de/doc/
 redirect_from:
-- /de/de/de/doc/UserDoc/
-- /de/de/de/wiki/UserDoc/
-- /de/de/de/doc/QubesDocs/
-- /de/de/de/wiki/QubesDocs/
-- /de/de/de/help/
-- /de/de/de/community/
+- /de/doc/UserDoc/
+- /de/wiki/UserDoc/
+- /de/doc/QubesDocs/
+- /de/wiki/QubesDocs/
+- /de/help/
+- /de/community/
 ref: 2
 title: Documentation
 translated: 'yes'

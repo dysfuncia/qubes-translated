@@ -3,12 +3,12 @@ lang: de
 layout: doc
 permalink: /de/doc/tools/
 redirect_from:
-- /de/de/de/doc/tools/4.0/
-- /de/de/de/doc/tools/4.0/dom0/
-- /de/de/de/doc/tools/4.0/domU/
-- /de/de/de/doc/tools/3.2/
-- /de/de/de/doc/tools/3.2/dom0/
-- /de/de/de/doc/tools/3.2/domU/
+- /de/doc/tools/4.0/
+- /de/doc/tools/4.0/dom0/
+- /de/doc/tools/4.0/domU/
+- /de/doc/tools/3.2/
+- /de/doc/tools/3.2/dom0/
+- /de/doc/tools/3.2/domU/
 ref: 103
 title: Command-Line Tools
 translated: 'yes'

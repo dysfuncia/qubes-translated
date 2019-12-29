@@ -3,10 +3,10 @@ lang: de
 layout: doc-full
 permalink: /de/doc/admin-api/
 redirect_from:
-- /de/de/de/doc/mgmt/
-- /de/de/de/doc/mgmt1/
-- /de/de/de/doc/mgmt-architecture/
-- /de/de/de/doc/admin-api-architecture/
+- /de/doc/mgmt/
+- /de/doc/mgmt1/
+- /de/doc/mgmt-architecture/
+- /de/doc/admin-api-architecture/
 ref: 185
 title: Admin API
 translated: 'yes'

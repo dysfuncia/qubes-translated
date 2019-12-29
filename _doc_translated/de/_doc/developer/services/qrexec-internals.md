@@ -3,9 +3,9 @@ lang: de
 layout: doc
 permalink: /de/doc/qrexec-internals/
 redirect_from:
-- /de/de/de/doc/qrexec3-implementation/
-- /de/de/de/doc/Qrexec3Implementation/
-- /de/de/de/wiki/Qrexec3Implementation/
+- /de/doc/qrexec3-implementation/
+- /de/doc/Qrexec3Implementation/
+- /de/wiki/Qrexec3Implementation/
 ref: 189
 title: Qubes RPC internals
 translated: 'yes'

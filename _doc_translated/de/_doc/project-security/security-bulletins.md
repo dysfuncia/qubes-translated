@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/security/bulletins/
 redirect_from:
-- /de/de/de/doc/security-bulletins/
-- /de/de/de/doc/SecurityBulletins/
-- /de/de/de/wiki/SecurityBulletins/
-- /de/de/de/trac/wiki/SecurityBulletins/
+- /de/doc/security-bulletins/
+- /de/doc/SecurityBulletins/
+- /de/wiki/SecurityBulletins/
+- /de/trac/wiki/SecurityBulletins/
 ref: 8
 title: Qubes Security Bulletins
 translated: 'yes'

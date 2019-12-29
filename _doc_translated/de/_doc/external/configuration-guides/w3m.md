@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/w3m/
 redirect_from:
-- /de/de/de/doc/W3m/
-- /de/de/de/wiki/W3m/
+- /de/doc/W3m/
+- /de/wiki/W3m/
 ref: 37
 title: Reducing the fingerprint of the text-based web browser w3m
 translated: 'yes'

@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/dvm-impl/
 redirect_from:
-- /de/de/de/doc/DVMimpl/
-- /de/de/de/wiki/DVMimpl/
+- /de/doc/DVMimpl/
+- /de/wiki/DVMimpl/
 ref: 182
 title: DVMimpl
 translated: 'yes'

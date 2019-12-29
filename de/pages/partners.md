@@ -3,7 +3,7 @@ lang: de
 layout: default
 permalink: /de/partners/
 redirect_from:
-- /de/de/de/funding/
+- /de/funding/
 ref: 219
 title: Qubes Partners
 translated: 'yes'

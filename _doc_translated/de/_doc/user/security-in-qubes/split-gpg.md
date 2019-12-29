@@ -3,13 +3,13 @@ lang: de
 layout: doc
 permalink: /de/doc/split-gpg/
 redirect_from:
-- /de/de/de/doc/SplitGpg/
-- /de/de/de/doc/UserDoc/SplitGpg/
-- /de/de/de/wiki/UserDoc/SplitGpg/
-- /de/de/de/doc/open-pgp/
-- /de/de/de/doc/OpenPGP/
-- /de/de/de/doc/UserDoc/OpenPGP/
-- /de/de/de/wiki/UserDoc/OpenPGP/
+- /de/doc/SplitGpg/
+- /de/doc/UserDoc/SplitGpg/
+- /de/wiki/UserDoc/SplitGpg/
+- /de/doc/open-pgp/
+- /de/doc/OpenPGP/
+- /de/doc/UserDoc/OpenPGP/
+- /de/wiki/UserDoc/OpenPGP/
 ref: 136
 title: Split GPG
 translated: 'yes'

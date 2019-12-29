@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/gui/
 redirect_from:
-- /de/de/de/doc/GUIdocs/
-- /de/de/de/wiki/GUIdocs/
+- /de/doc/GUIdocs/
+- /de/wiki/GUIdocs/
 ref: 172
 title: GUI
 translated: 'yes'

@@ -3,9 +3,9 @@ lang: de
 layout: default
 permalink: /de/screenshots/
 redirect_from:
-- /de/de/de/media/
-- /de/de/de/doc/QubesScreenshots/
-- /de/de/de/wiki/QubesScreenshots/
+- /de/media/
+- /de/doc/QubesScreenshots/
+- /de/wiki/QubesScreenshots/
 ref: 23
 title: Screenshots
 translated: 'yes'

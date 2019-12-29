@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/qubes-service/
 redirect_from:
-- /de/de/de/doc/QubesService/
-- /de/de/de/wiki/QubesService/
+- /de/doc/QubesService/
+- /de/wiki/QubesService/
 ref: 104
 title: Qubes Service
 translated: 'yes'

@@ -3,7 +3,7 @@ lang: de
 layout: doc
 permalink: /de/doc/anonymizing-your-mac-address/
 redirect_from:
-- /de/de/de/doc/randomizing-your-mac-address/
+- /de/doc/randomizing-your-mac-address/
 ref: 61
 title: Anonymizing your MAC Address
 translated: 'yes'

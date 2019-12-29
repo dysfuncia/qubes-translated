@@ -3,8 +3,8 @@ lang: de
 layout: doc
 permalink: /de/doc/license/
 redirect_from:
-- /de/de/de/doc/QubesLicensing/
-- /de/de/de/wiki/QubesLicensing/
+- /de/doc/QubesLicensing/
+- /de/wiki/QubesLicensing/
 ref: 209
 title: License
 translated: 'yes'

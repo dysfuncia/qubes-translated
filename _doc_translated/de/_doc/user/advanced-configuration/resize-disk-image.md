@@ -3,10 +3,10 @@ lang: de
 layout: doc
 permalink: /de/doc/resize-disk-image/
 redirect_from:
-- /de/de/de/doc/ResizeDiskImage/
-- /de/de/de/doc/ResizeRootDiskImage/
-- /de/de/de/wiki/ResizeDiskImage/
-- /de/de/de/wiki/ResizeRootDiskImage/
+- /de/doc/ResizeDiskImage/
+- /de/doc/ResizeRootDiskImage/
+- /de/wiki/ResizeDiskImage/
+- /de/wiki/ResizeRootDiskImage/
 ref: 155
 title: Resize Disk Image
 translated: 'yes'
